@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Dec 28 02:45:38 2020
+# Process ID: 3244
+# Current directory: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_and_gate/my_and_gate.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_and_gate/my_and_gate.sim/sim_1/behav/xsim/xsim.dir/my_and_gate_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_and_gate/my_and_gate.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_and_gate/my_and_gate.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/BATUHAN -notrace
+couldn't read file "E:/BATUHAN": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon Dec 28 02:45:38 2020...

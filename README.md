@@ -1,0 +1,2 @@
+# ICTECH_calismalar
+ 

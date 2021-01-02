@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="my_xor_gate_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="my_xor_gate_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="72000001fs"></ZoomEndTime>
+      <Cursor1Time time="15400000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/my_xor_gate_tb/input1" type="logic">
+      <obj_property name="ElementShortName">input1</obj_property>
+      <obj_property name="ObjectShortName">input1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_xor_gate_tb/input2" type="logic">
+      <obj_property name="ElementShortName">input2</obj_property>
+      <obj_property name="ObjectShortName">input2</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider4">
+      <obj_property name="label">OUTPUT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/my_xor_gate_tb/out_xor" type="logic">
+      <obj_property name="ElementShortName">out_xor</obj_property>
+      <obj_property name="ObjectShortName">out_xor</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>

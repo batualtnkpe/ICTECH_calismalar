@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Dec 25 17:41:06 2020
+# Process ID: 16844
+# Current directory: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_xor_gate/my_xor_gate.runs/synth_1
+# Command line: vivado.exe -log my_xor_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source my_xor_gate.tcl
+# Log file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_xor_gate/my_xor_gate.runs/synth_1/my_xor_gate.vds
+# Journal file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/my_xor_gate/my_xor_gate.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source my_xor_gate.tcl -notrace

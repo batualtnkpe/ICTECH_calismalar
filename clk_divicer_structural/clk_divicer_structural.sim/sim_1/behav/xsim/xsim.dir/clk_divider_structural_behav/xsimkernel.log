@@ -1,0 +1,7 @@
+Running: xsim.dir/clk_divider_structural_behav/xsimk.exe -simmode gui -wdb clk_divider_structural_behav.wdb -simrunnum 0 -socket 50559
+Design successfully loaded
+Design Loading Memory Usage: 5788 KB (Peak: 5788 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 6464 KB (Peak: 6464 KB)
+Simulation CPU Usage: 108 ms

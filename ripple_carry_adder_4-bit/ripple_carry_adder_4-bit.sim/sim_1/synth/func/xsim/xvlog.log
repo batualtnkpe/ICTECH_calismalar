@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/ripple_carry_adder_4-bit/ripple_carry_adder_4-bit.sim/sim_1/synth/func/xsim/ripple_carry_adder_4_bit_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ripple_carry_adder_4_bit
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/ripple_carry_adder_4-bit/ripple_carry_adder_4-bit.srcs/sim_1/new/ripple_carry_adder_4_bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ripple_carry_adder_4_bit_tb

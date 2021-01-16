@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jan 15 12:28:20 2021
+# Process ID: 13960
+# Current directory: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/different_clk_divider/different_clk_divider.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/different_clk_divider/different_clk_divider.sim/sim_1/behav/xsim/xsim.dir/counter_dif_clk_divider_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/different_clk_divider/different_clk_divider.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/different_clk_divider/different_clk_divider.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/BATUHAN -notrace

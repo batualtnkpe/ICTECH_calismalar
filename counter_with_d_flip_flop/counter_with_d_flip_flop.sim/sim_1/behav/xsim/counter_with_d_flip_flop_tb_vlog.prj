@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../counter_with_d_flip_flop.srcs/sources_1/new/counter_with_d_flip_flop.v" \
+"../../../../counter_with_d_flip_flop.srcs/sources_1/new/d_flip_flopp.v" \
+"../../../../counter_with_d_flip_flop.srcs/sim_1/new/counter_with_d_flip_flop.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

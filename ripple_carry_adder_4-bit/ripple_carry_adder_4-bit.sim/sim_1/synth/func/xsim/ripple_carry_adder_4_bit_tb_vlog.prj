@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"ripple_carry_adder_4_bit_tb_func_synth.v" \
+"../../../../../ripple_carry_adder_4-bit.srcs/sim_1/new/ripple_carry_adder_4_bit_tb.v" \
+
+# Do not sort compile order
+nosort

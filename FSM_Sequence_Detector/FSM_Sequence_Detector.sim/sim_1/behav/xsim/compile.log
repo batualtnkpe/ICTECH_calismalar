@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/FSM_Sequence_Detector/FSM_Sequence_Detector.srcs/sources_1/new/FSM_Sequence_Detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM_Sequence_Detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/FSM_Sequence_Detector/FSM_Sequence_Detector.srcs/sim_1/new/FSM_Sequence_Detector_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM_Sequence_Detector_tb

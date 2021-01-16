@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/clk_divicer_structural/clk_divicer_structural.srcs/sources_1/new/clk_divider_structural.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider_structural
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/clk_divicer_structural/clk_divicer_structural.srcs/sources_1/new/dflipflop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_f_f
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/clk_divicer_structural/clk_divicer_structural.srcs/sim_1/new/clk_divider_structral_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider_structral_tb

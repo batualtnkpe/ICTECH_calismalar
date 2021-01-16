@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/counter_up_down/counter_up_down.srcs/sources_1/new/counter_up_down.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_up_down
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BATUHAN DOSYALAR/ICTECH/devler/devlerim/counter_up_down/counter_up_down.srcs/sim_1/new/counter_up_down_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_up_down_tb
